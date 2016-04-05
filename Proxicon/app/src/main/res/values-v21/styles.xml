@@ -1,0 +1,11 @@
+<resources>
+    <style name="Fullscreen" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimaryDark">#E28D31</item>
+    </style>
+
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#FAAC58</item>
+        <item name="android:colorPrimaryDark">#E28D31</item>
+    </style>
+</resources>
+
